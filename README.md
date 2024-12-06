@@ -1,4 +1,4 @@
-ODIN PROJECCT
+ODIN PROJECT
 =============
 Recipes
 -------
@@ -10,6 +10,9 @@ I will demonstrate it by making a **Recipe Page**.
 * Making Lists - Unsorted/Sorted
 * Adding Links - Absolute/Relative
 * Adding Images
+* Adding Links with safety features
 
 **Self-Reflection**
-
+The Project went well, because I did HTML around 2 years ago and could remember pretty much everything.
+One thing was new, the safety feature "noopener noreferrer" for Links.
+Overall the Project was a good refresh of my skills.
